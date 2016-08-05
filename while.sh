@@ -1,4 +1,5 @@
-#!/usr/bin/env bash
-while [[ true ]]; do
+#!/bin/bash
+while true
+do
     echo "hola k ase"
 done
